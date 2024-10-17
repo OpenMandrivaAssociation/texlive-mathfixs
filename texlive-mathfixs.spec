@@ -3,7 +3,7 @@ Version:	49547
 Release:	2
 Summary:	Fix various layout issues in math mode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathfixs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathfixs
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathfixs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathfixs.doc.r%{version}.tar.xz
