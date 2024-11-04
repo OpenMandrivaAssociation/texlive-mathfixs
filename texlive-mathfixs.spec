@@ -1,6 +1,6 @@
 Name:		texlive-mathfixs
-Version:	49547
-Release:	2
+Version:	72653
+Release:	1
 Summary:	Fix various layout issues in math mode
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathfixs
