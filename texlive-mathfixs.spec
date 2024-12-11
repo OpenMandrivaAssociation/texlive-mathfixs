@@ -1,5 +1,5 @@
 Name:		texlive-mathfixs
-Version:	72653
+Version:	72887
 Release:	1
 Summary:	Fix various layout issues in math mode
 Group:		Publishing
